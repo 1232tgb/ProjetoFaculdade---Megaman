@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: 72b16fe4666bbf5489c6a3a48a66f10f
+timeCreated: 1490967253
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ring_hud_sprite_by_jaysonjean-d91qfhx_0
+    21300002: ring_hud_sprite_by_jaysonjean-d91qfhx_1
+    21300004: ring_hud_sprite_by_jaysonjean-d91qfhx_2
+    21300006: ring_hud_sprite_by_jaysonjean-d91qfhx_3
+    21300008: ring_hud_sprite_by_jaysonjean-d91qfhx_4
+    21300010: ring_hud_sprite_by_jaysonjean-d91qfhx_5
+    21300012: ring_hud_sprite_by_jaysonjean-d91qfhx_6
+    21300014: ring_hud_sprite_by_jaysonjean-d91qfhx_7
+    21300016: ring_hud_sprite_by_jaysonjean-d91qfhx_8
+    21300018: ring_hud_sprite_by_jaysonjean-d91qfhx_9
+    21300020: ring_hud_sprite_by_jaysonjean-d91qfhx_10
+    21300022: ring_hud_sprite_by_jaysonjean-d91qfhx_11
+    21300024: ring_hud_sprite_by_jaysonjean-d91qfhx_12
+    21300026: ring_hud_sprite_by_jaysonjean-d91qfhx_13
+    21300028: ring_hud_sprite_by_jaysonjean-d91qfhx_14
+    21300030: ring_hud_sprite_by_jaysonjean-d91qfhx_15
+    21300032: ring_hud_sprite_by_jaysonjean-d91qfhx_16
+    21300034: ring_hud_sprite_by_jaysonjean-d91qfhx_17
+    21300036: ring_hud_sprite_by_jaysonjean-d91qfhx_18
+    21300038: ring_hud_sprite_by_jaysonjean-d91qfhx_19
+    21300040: ring_hud_sprite_by_jaysonjean-d91qfhx_20
+    21300042: ring_hud_sprite_by_jaysonjean-d91qfhx_21
+    21300044: ring_hud_sprite_by_jaysonjean-d91qfhx_22
+    21300046: ring_hud_sprite_by_jaysonjean-d91qfhx_23
+    21300048: ring_hud_sprite_by_jaysonjean-d91qfhx_24
+    21300050: ring_hud_sprite_by_jaysonjean-d91qfhx_25
+    21300052: ring_hud_sprite_by_jaysonjean-d91qfhx_26
+    21300054: ring_hud_sprite_by_jaysonjean-d91qfhx_27
+    21300056: ring_hud_sprite_by_jaysonjean-d91qfhx_28
+    21300058: ring_hud_sprite_by_jaysonjean-d91qfhx_29
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 85
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ring_hud_sprite_by_jaysonjean-d91qfhx_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 196
+        width: 56
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ring_hud_sprite_by_jaysonjean-d91qfhx_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 196
+        width: 56
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ring_hud_sprite_by_jaysonjean-d91qfhx_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 196
+        width: 54
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ring_hud_sprite_by_jaysonjean-d91qfhx_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 196
+        width: 54
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ring_hud_sprite_by_jaysonjean-d91qfhx_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 196
+        width: 52
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ring_hud_sprite_by_jaysonjean-d91qfhx_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 196
+        width: 50
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ring_hud_sprite_by_jaysonjean-d91qfhx_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 196
+        width: 48
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ring_hud_sprite_by_jaysonjean-d91qfhx_7
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 196
+        width: 44
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ring_hud_sprite_by_jaysonjean-d91qfhx_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 132
+        width: 43
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ring_hud_sprite_by_jaysonjean-d91qfhx_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 132
+        width: 40
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ring_hud_sprite_by_jaysonjean-d91qfhx_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 132
+        width: 36
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ring_hud_sprite_by_jaysonjean-d91qfhx_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 132
+        width: 32
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ring_hud_sprite_by_jaysonjean-d91qfhx_12
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 132
+        width: 29
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ring_hud_sprite_by_jaysonjean-d91qfhx_13
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 132
+        width: 24
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ring_hud_sprite_by_jaysonjean-d91qfhx_14
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 132
+        width: 18
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ring_hud_sprite_by_jaysonjean-d91qfhx_15
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 132
+        width: 15
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ring_hud_sprite_by_jaysonjean-d91qfhx_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 68
+        width: 18
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ring_hud_sprite_by_jaysonjean-d91qfhx_17
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 68
+        width: 23
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ring_hud_sprite_by_jaysonjean-d91qfhx_18
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 68
+        width: 29
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ring_hud_sprite_by_jaysonjean-d91qfhx_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 68
+        width: 33
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ring_hud_sprite_by_jaysonjean-d91qfhx_20
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 68
+        width: 36
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ring_hud_sprite_by_jaysonjean-d91qfhx_21
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 68
+        width: 40
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ring_hud_sprite_by_jaysonjean-d91qfhx_22
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 68
+        width: 43
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ring_hud_sprite_by_jaysonjean-d91qfhx_23
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 68
+        width: 46
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ring_hud_sprite_by_jaysonjean-d91qfhx_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4
+        width: 48
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ring_hud_sprite_by_jaysonjean-d91qfhx_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 4
+        width: 50
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ring_hud_sprite_by_jaysonjean-d91qfhx_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 4
+        width: 52
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ring_hud_sprite_by_jaysonjean-d91qfhx_27
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 4
+        width: 53
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ring_hud_sprite_by_jaysonjean-d91qfhx_28
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 4
+        width: 55
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ring_hud_sprite_by_jaysonjean-d91qfhx_29
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 4
+        width: 56
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

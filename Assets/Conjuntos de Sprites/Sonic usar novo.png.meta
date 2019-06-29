@@ -1,0 +1,3798 @@
+fileFormatVersion: 2
+guid: 2b043e0abb1c9c64582712700673c199
+timeCreated: 1488543279
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sonic usar novo_0
+    21300002: Sonic usar novo_1
+    21300004: Sonic usar novo_2
+    21300006: Sonic usar novo_3
+    21300008: Sonic usar novo_4
+    21300010: Sonic usar novo_5
+    21300012: Sonic usar novo_6
+    21300014: Sonic usar novo_7
+    21300016: Sonic usar novo_8
+    21300018: Sonic usar novo_9
+    21300020: Sonic usar novo_10
+    21300022: Sonic usar novo_11
+    21300024: Sonic usar novo_12
+    21300026: Sonic usar novo_13
+    21300028: Sonic usar novo_14
+    21300030: Sonic usar novo_15
+    21300032: Sonic usar novo_16
+    21300034: Sonic usar novo_17
+    21300036: Sonic usar novo_18
+    21300038: Sonic usar novo_19
+    21300040: Sonic usar novo_20
+    21300042: Sonic usar novo_21
+    21300044: Sonic usar novo_22
+    21300046: Sonic usar novo_23
+    21300048: Sonic usar novo_24
+    21300050: Sonic usar novo_25
+    21300052: Sonic usar novo_26
+    21300054: Sonic usar novo_27
+    21300056: Sonic usar novo_28
+    21300058: Sonic usar novo_29
+    21300060: Sonic usar novo_30
+    21300062: Sonic usar novo_31
+    21300064: Sonic usar novo_32
+    21300066: Sonic usar novo_33
+    21300068: Sonic usar novo_34
+    21300070: Sonic usar novo_35
+    21300072: Sonic usar novo_36
+    21300074: Sonic usar novo_37
+    21300076: Sonic usar novo_38
+    21300078: Sonic usar novo_39
+    21300080: Sonic usar novo_40
+    21300082: Sonic usar novo_41
+    21300084: Sonic usar novo_42
+    21300086: Sonic usar novo_43
+    21300088: Sonic usar novo_44
+    21300090: Sonic usar novo_45
+    21300092: Sonic usar novo_46
+    21300094: Sonic usar novo_47
+    21300096: Sonic usar novo_48
+    21300098: Sonic usar novo_49
+    21300100: Sonic usar novo_50
+    21300102: Sonic usar novo_51
+    21300104: Sonic usar novo_52
+    21300106: Sonic usar novo_53
+    21300108: Sonic usar novo_54
+    21300110: Sonic usar novo_55
+    21300112: Sonic usar novo_56
+    21300114: Sonic usar novo_57
+    21300116: Sonic usar novo_58
+    21300118: Sonic usar novo_59
+    21300120: Sonic usar novo_60
+    21300122: Sonic usar novo_61
+    21300124: Sonic usar novo_62
+    21300126: Sonic usar novo_63
+    21300128: Sonic usar novo_64
+    21300130: Sonic usar novo_65
+    21300132: Sonic usar novo_66
+    21300134: Sonic usar novo_67
+    21300136: Sonic usar novo_68
+    21300138: Sonic usar novo_69
+    21300140: Sonic usar novo_70
+    21300142: Sonic usar novo_71
+    21300144: Sonic usar novo_72
+    21300146: Sonic usar novo_73
+    21300148: Sonic usar novo_74
+    21300150: Sonic usar novo_75
+    21300152: Sonic usar novo_76
+    21300154: Sonic usar novo_77
+    21300156: Sonic usar novo_78
+    21300158: Sonic usar novo_79
+    21300160: Sonic usar novo_80
+    21300162: Sonic usar novo_81
+    21300164: Sonic usar novo_82
+    21300166: Sonic usar novo_83
+    21300168: Sonic usar novo_84
+    21300170: Sonic usar novo_85
+    21300172: Sonic usar novo_86
+    21300174: Sonic usar novo_87
+    21300176: Sonic usar novo_88
+    21300178: Sonic usar novo_89
+    21300180: Sonic usar novo_90
+    21300182: Sonic usar novo_91
+    21300184: Sonic usar novo_92
+    21300186: Sonic usar novo_93
+    21300188: Sonic usar novo_94
+    21300190: Sonic usar novo_95
+    21300192: Sonic usar novo_96
+    21300194: Sonic usar novo_97
+    21300196: Sonic usar novo_98
+    21300198: Sonic usar novo_99
+    21300200: Sonic usar novo_100
+    21300202: Sonic usar novo_101
+    21300204: Sonic usar novo_102
+    21300206: Sonic usar novo_103
+    21300208: Sonic usar novo_104
+    21300210: Sonic usar novo_105
+    21300212: Sonic usar novo_106
+    21300214: Sonic usar novo_107
+    21300216: Sonic usar novo_108
+    21300218: Sonic usar novo_109
+    21300220: Sonic usar novo_110
+    21300222: Sonic usar novo_111
+    21300224: Sonic usar novo_112
+    21300226: Sonic usar novo_113
+    21300228: Sonic usar novo_114
+    21300230: Sonic usar novo_115
+    21300232: Sonic usar novo_116
+    21300234: Sonic usar novo_117
+    21300236: Sonic usar novo_118
+    21300238: Sonic usar novo_119
+    21300240: Sonic usar novo_120
+    21300242: Sonic usar novo_121
+    21300244: Sonic usar novo_122
+    21300246: Sonic usar novo_123
+    21300248: Sonic usar novo_124
+    21300250: Sonic usar novo_125
+    21300252: Sonic usar novo_126
+    21300254: Sonic usar novo_127
+    21300256: Sonic usar novo_128
+    21300258: Sonic usar novo_129
+    21300260: Sonic usar novo_130
+    21300262: Sonic usar novo_131
+    21300264: Sonic usar novo_132
+    21300266: Sonic usar novo_133
+    21300268: Sonic usar novo_134
+    21300270: Sonic usar novo_135
+    21300272: Sonic usar novo_136
+    21300274: Sonic usar novo_137
+    21300276: Sonic usar novo_138
+    21300278: Sonic usar novo_139
+    21300280: Sonic usar novo_140
+    21300282: Sonic usar novo_141
+    21300284: Sonic usar novo_142
+    21300286: Sonic usar novo_143
+    21300288: Sonic usar novo_144
+    21300290: Sonic usar novo_145
+    21300292: Sonic usar novo_146
+    21300294: Sonic usar novo_147
+    21300296: Sonic usar novo_148
+    21300298: Sonic usar novo_149
+    21300300: Sonic usar novo_150
+    21300302: Sonic usar novo_151
+    21300304: Sonic usar novo_152
+    21300306: Sonic usar novo_153
+    21300308: Sonic usar novo_154
+    21300310: Sonic usar novo_155
+    21300312: Sonic usar novo_156
+    21300314: Sonic usar novo_157
+    21300316: Sonic usar novo_158
+    21300318: Sonic usar novo_159
+    21300320: Sonic usar novo_160
+    21300322: Sonic usar novo_161
+    21300324: Sonic usar novo_162
+    21300326: Sonic usar novo_163
+    21300328: Sonic usar novo_164
+    21300330: Sonic usar novo_165
+    21300332: Sonic usar novo_166
+    21300334: Sonic usar novo_167
+    21300336: Sonic usar novo_168
+    21300338: Sonic usar novo_169
+    21300340: Sonic usar novo_170
+    21300342: Sonic usar novo_171
+    21300344: Sonic usar novo_172
+    21300346: Sonic usar novo_173
+    21300348: Sonic usar novo_174
+    21300350: Sonic usar novo_175
+    21300352: Sonic usar novo_176
+    21300354: Sonic usar novo_177
+    21300356: Sonic usar novo_178
+    21300358: Sonic usar novo_179
+    21300360: Sonic usar novo_180
+    21300362: Sonic usar novo_181
+    21300364: Sonic usar novo_182
+    21300366: Sonic usar novo_183
+    21300368: Sonic usar novo_184
+    21300370: Sonic usar novo_185
+    21300372: Sonic usar novo_186
+    21300374: Sonic usar novo_187
+    21300376: Sonic usar novo_188
+    21300378: Sonic usar novo_189
+    21300380: Sonic usar novo_190
+    21300382: Sonic usar novo_191
+    21300384: Sonic usar novo_192
+    21300386: Sonic usar novo_193
+    21300388: Sonic usar novo_194
+    21300390: Sonic usar novo_195
+    21300392: Sonic usar novo_196
+    21300394: Sonic usar novo_197
+    21300396: Sonic usar novo_198
+    21300398: Sonic usar novo_199
+    21300400: Sonic usar novo_200
+    21300402: Sonic usar novo_201
+    21300404: Sonic usar novo_202
+    21300406: Sonic usar novo_203
+    21300408: Sonic usar novo_204
+    21300410: Sonic usar novo_205
+    21300412: Sonic usar novo_206
+    21300414: Sonic usar novo_207
+    21300416: Sonic usar novo_208
+    21300418: Sonic usar novo_209
+    21300420: Sonic usar novo_210
+    21300422: Sonic usar novo_211
+    21300424: Sonic usar novo_212
+    21300426: Sonic usar novo_213
+    21300428: Sonic usar novo_214
+    21300430: Sonic usar novo_215
+    21300432: Sonic usar novo_216
+    21300434: Sonic usar novo_217
+    21300436: Sonic usar novo_218
+    21300438: Sonic usar novo_219
+    21300440: Sonic usar novo_220
+    21300442: Sonic usar novo_221
+    21300444: Sonic usar novo_222
+    21300446: Sonic usar novo_223
+    21300448: Sonic usar novo_224
+    21300450: Sonic usar novo_225
+    21300452: Sonic usar novo_226
+    21300454: Sonic usar novo_227
+    21300456: Sonic usar novo_228
+    21300458: Sonic usar novo_229
+    21300460: Sonic usar novo_230
+    21300462: Sonic usar novo_231
+    21300464: Sonic usar novo_232
+    21300466: Sonic usar novo_233
+    21300468: Sonic usar novo_234
+    21300470: Sonic usar novo_235
+    21300472: Sonic usar novo_236
+    21300474: Sonic usar novo_237
+    21300476: Sonic usar novo_238
+    21300478: Sonic usar novo_239
+    21300480: Sonic usar novo_240
+    21300482: Sonic usar novo_241
+    21300484: Sonic usar novo_242
+    21300486: Sonic usar novo_243
+    21300488: Sonic usar novo_244
+    21300490: Sonic usar novo_245
+    21300492: Sonic usar novo_246
+    21300494: Sonic usar novo_247
+    21300496: Sonic usar novo_248
+    21300498: Sonic usar novo_249
+    21300500: Sonic usar novo_250
+    21300502: Sonic usar novo_251
+    21300504: Sonic usar novo_252
+    21300506: Sonic usar novo_253
+    21300508: Sonic usar novo_254
+    21300510: Sonic usar novo_255
+    21300512: Sonic usar novo_256
+    21300514: Sonic usar novo_257
+    21300516: Sonic usar novo_258
+    21300518: Sonic usar novo_259
+    21300520: Sonic usar novo_260
+    21300522: Sonic usar novo_261
+    21300524: Sonic usar novo_262
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 30
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sonic usar novo_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 947
+        width: 29
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 947
+        width: 30
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 947
+        width: 32
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 947
+        width: 32
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 947
+        width: 32
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 947
+        width: 32
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 947
+        width: 32
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 947
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 947
+        width: 36
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 947
+        width: 32
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_10
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 947
+        width: 32
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_11
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 947
+        width: 27
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 947
+        width: 27
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_13
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 947
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_14
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 947
+        width: 35
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 947
+        width: 24
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_16
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 947
+        width: 27
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 904
+        width: 39
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 904
+        width: 39
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 904
+        width: 26
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_20
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 904
+        width: 28
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_21
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 904
+        width: 37
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_22
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 904
+        width: 38
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_23
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 904
+        width: 26
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_24
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 904
+        width: 26
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 904
+        width: 32
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_26
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 904
+        width: 32
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_27
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 904
+        width: 31
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_28
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 904
+        width: 32
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 857
+        width: 40
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_30
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 857
+        width: 44
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_31
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 857
+        width: 38
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_32
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 857
+        width: 41
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_33
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 857
+        width: 39
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_34
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 857
+        width: 42
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_35
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 857
+        width: 37
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_36
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 857
+        width: 40
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_37
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 857
+        width: 36
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_38
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 857
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_39
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 857
+        width: 35
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_40
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 857
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 809
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 809
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_43
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 809
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_44
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 809
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_45
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 809
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_46
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 809
+        width: 30
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_47
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 809
+        width: 29
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_48
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 809
+        width: 29
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_49
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 809
+        width: 29
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_50
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 809
+        width: 29
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_51
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 809
+        width: 29
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_52
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 809
+        width: 24
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_53
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 809
+        width: 29
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_54
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 809
+        width: 30
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_55
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 809
+        width: 26
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 768
+        width: 28
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_57
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 768
+        width: 27
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_58
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 768
+        width: 26
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_59
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 768
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_60
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 768
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_61
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 768
+        width: 27
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_62
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 768
+        width: 31
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_63
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 768
+        width: 22
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_64
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 768
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_65
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 768
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_66
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 768
+        width: 24
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_67
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 768
+        width: 23
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_68
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 768
+        width: 22
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_69
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 768
+        width: 26
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_70
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 768
+        width: 27
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_71
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 768
+        width: 28
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_72
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 768
+        width: 30
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_73
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 768
+        width: 27
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_74
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 768
+        width: 22
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_75
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 722
+        width: 24
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_76
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 722
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_77
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 722
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_78
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 722
+        width: 29
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_79
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 722
+        width: 28
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_80
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 722
+        width: 29
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_81
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 722
+        width: 22
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_82
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 722
+        width: 24
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_83
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 722
+        width: 28
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_84
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 722
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_85
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 722
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_86
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 722
+        width: 29
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_87
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 722
+        width: 30
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_88
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 722
+        width: 24
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_89
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 722
+        width: 23
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_90
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 722
+        width: 30
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_91
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 722
+        width: 33
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_92
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 685
+        width: 29
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_93
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 685
+        width: 26
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_94
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 685
+        width: 28
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_95
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 685
+        width: 32
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_96
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 685
+        width: 36
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_97
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 685
+        width: 36
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_98
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 685
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_99
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 685
+        width: 32
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_100
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 685
+        width: 32
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_101
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 685
+        width: 34
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_102
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 685
+        width: 37
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_103
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 685
+        width: 32
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_104
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 685
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_105
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 685
+        width: 32
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_106
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 685
+        width: 29
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_107
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 631
+        width: 38
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_108
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 631
+        width: 31
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_109
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 631
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_110
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 631
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_111
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 631
+        width: 31
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_112
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 631
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_113
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 631
+        width: 38
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_114
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 631
+        width: 37
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_115
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 631
+        width: 31
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_116
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 631
+        width: 32
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_117
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 631
+        width: 38
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_118
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 631
+        width: 34
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_119
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 632
+        width: 23
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_120
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 631
+        width: 23
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_121
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 656
+        width: 53
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_122
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 632
+        width: 52
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_123
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 582
+        width: 30
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_124
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 582
+        width: 27
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_125
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 582
+        width: 22
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_126
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 582
+        width: 19
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_127
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 582
+        width: 22
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_128
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 582
+        width: 26
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_129
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 582
+        width: 32
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_130
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 582
+        width: 26
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_131
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 582
+        width: 24
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_132
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 582
+        width: 21
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_133
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 582
+        width: 23
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_134
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 582
+        width: 29
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_135
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 582
+        width: 24
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_136
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 582
+        width: 27
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_137
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 582
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_138
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 582
+        width: 26
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_139
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 582
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_140
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 582
+        width: 27
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_141
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 582
+        width: 24
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_142
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 531
+        width: 29
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_143
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 531
+        width: 21
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_144
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 548
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_145
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 539
+        width: 21
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_146
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 531
+        width: 21
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_147
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 531
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_148
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 531
+        width: 22
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_149
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 531
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_150
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 537
+        width: 34
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_151
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 542
+        width: 37
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_152
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 548
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_153
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 531
+        width: 34
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_154
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 531
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_155
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 531
+        width: 27
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_156
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 531
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_157
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 531
+        width: 26
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_158
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 531
+        width: 27
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_159
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 531
+        width: 38
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_160
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 492
+        width: 40
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_161
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 492
+        width: 48
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_162
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 492
+        width: 31
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_163
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 492
+        width: 40
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_164
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 492
+        width: 48
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_165
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 492
+        width: 31
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_166
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 492
+        width: 35
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_167
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 481
+        width: 35
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_168
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 494
+        width: 47
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_169
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 481
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_170
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 495
+        width: 46
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_171
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 482
+        width: 36
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_172
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 482
+        width: 48
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_173
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 437
+        width: 36
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_174
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 437
+        width: 35
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_175
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 437
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_176
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 437
+        width: 31
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_177
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 437
+        width: 36
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_178
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 437
+        width: 27
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_179
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 456
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_180
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 437
+        width: 32
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_181
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 437
+        width: 36
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_182
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 437
+        width: 38
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_183
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 437
+        width: 35
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_184
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 437
+        width: 27
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_185
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 437
+        width: 31
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_186
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 437
+        width: 30
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_187
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 437
+        width: 28
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_188
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 437
+        width: 30
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_189
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 437
+        width: 31
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_190
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 396
+        width: 35
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_191
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 396
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_192
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 396
+        width: 39
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_193
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 396
+        width: 33
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_194
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 396
+        width: 33
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_195
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 396
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_196
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 396
+        width: 24
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_197
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 396
+        width: 24
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_198
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 396
+        width: 28
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_199
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 396
+        width: 24
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_200
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 396
+        width: 28
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_201
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 396
+        width: 24
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_202
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 396
+        width: 29
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_203
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 396
+        width: 34
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_204
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 396
+        width: 43
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_205
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 396
+        width: 37
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_206
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 396
+        width: 29
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_207
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 336
+        width: 55
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_208
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 336
+        width: 54
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_209
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 336
+        width: 52
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_210
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 336
+        width: 50
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_211
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 336
+        width: 49
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_212
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 336
+        width: 46
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_213
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 336
+        width: 45
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_214
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 336
+        width: 28
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_215
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 336
+        width: 44
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_216
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 336
+        width: 35
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_217
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 336
+        width: 35
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_218
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 288
+        width: 63
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_219
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 288
+        width: 63
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_220
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 288
+        width: 64
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_221
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 288
+        width: 63
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_222
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 288
+        width: 64
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_223
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 288
+        width: 64
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_224
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 288
+        width: 38
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_225
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 288
+        width: 40
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_226
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 288
+        width: 37
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_227
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 239
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_228
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 239
+        width: 28
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_229
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 239
+        width: 28
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_230
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 239
+        width: 28
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_231
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 239
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_232
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 239
+        width: 32
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_233
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 239
+        width: 33
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_234
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 239
+        width: 34
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_235
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 239
+        width: 33
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_236
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 239
+        width: 31
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_237
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 239
+        width: 40
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_238
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 239
+        width: 39
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_239
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 239
+        width: 29
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_240
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 239
+        width: 29
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_241
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 239
+        width: 37
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_242
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 239
+        width: 38
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_243
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 239
+        width: 29
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_244
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 190
+        width: 37
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_245
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 190
+        width: 37
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_246
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 197
+        width: 48
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_247
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 190
+        width: 50
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_248
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 190
+        width: 48
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_249
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 190
+        width: 49
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_250
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 190
+        width: 47
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_251
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 190
+        width: 47
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_252
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 190
+        width: 47
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_253
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 190
+        width: 51
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_254
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 190
+        width: 33
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_255
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 123
+        width: 50
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_256
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 141
+        width: 31
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_257
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 141
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_258
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 141
+        width: 32
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_259
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 141
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_260
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 141
+        width: 31
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_261
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 141
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic usar novo_262
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 141
+        width: 33
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
